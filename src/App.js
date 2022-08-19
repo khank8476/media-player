@@ -18,7 +18,7 @@ function App() {
     * these are 4 videos in series test folder we have to test it with media player
     */
     
-    src = ["https://mayst.s3.amazonaws.com/Serie+Test+1+/finalLobo.mp4"]  
+    src = {"https://mayst.s3.amazonaws.com/Serie+Test+1+/finalLobo.mp4"}
     //src="https://cdn.jwplayer.com/videos/Q3GKHVHC-nirXmPcu.mp4"
       // src={"https://www.youtube.com/embed/s5h1IP23ixI"}
       // src={"http://videoinvalid"}
