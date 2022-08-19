@@ -6,6 +6,18 @@ function App() {
     <div className="App">
       <ReactNetflixPlayer
       // Vídeo Link - Just data is required
+    
+    /**
+    * maystrixtv series test 1 folder videos
+    *
+    * 1: https://mayst.s3.amazonaws.com/Serie+Test+1+/finalLobo.mp4
+    * 2: https://mayst.s3.amazonaws.com/Serie+Test+1+/maystrix+(5).mp4
+    * 3: https://mayst.s3.amazonaws.com/Serie+Test+1+/tests.mp4
+    * 4: https://mayst.s3.amazonaws.com/Serie+Test+1+/v1.mp4
+    *
+    * these are 4 videos in series test folder we have to test it with media player
+    */
+    
     src = "https://mayst.s3.amazonaws.com/finalLobo.mp4"  
     //src="https://cdn.jwplayer.com/videos/Q3GKHVHC-nirXmPcu.mp4"
       // src={"https://www.youtube.com/embed/s5h1IP23ixI"}
