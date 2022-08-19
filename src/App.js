@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <ReactNetflixPlayer
       // Vídeo Link - Just data is required
-    //src = "https://www.youtube.com/watch?v=Zv11L-ZfrSg"  
-    src="https://cdn.jwplayer.com/videos/Q3GKHVHC-nirXmPcu.mp4"
+    src = "https://mayst.s3.amazonaws.com/finalLobo.mp4"  
+    //src="https://cdn.jwplayer.com/videos/Q3GKHVHC-nirXmPcu.mp4"
       // src={"https://www.youtube.com/embed/s5h1IP23ixI"}
       // src={"http://videoinvalid"}
       title={"Dollface"}
